@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Cargo
+/target/
+
+# Arquivos de configuração
+/.vscode/
+/.idea/
+/.cargo/
+
+# Arquivos gerados durante a compilação
+Cargo.lock
